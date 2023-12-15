@@ -1,2 +1,0 @@
-# CODSOFT
-Number Game
